@@ -1,0 +1,1 @@
+CREATE TABLE Song (ID int NOT NULL PRIMARY KEY, Title Varchar(100), Artist Varchar(100));
